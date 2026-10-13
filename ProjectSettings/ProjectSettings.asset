@@ -12,8 +12,13 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
+<<<<<<< HEAD
   companyName: Emergio Games
   productName: Yatzy
+=======
+  companyName: DefaultCompany
+  productName: 2d
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -59,8 +64,13 @@ PlayerSettings:
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
   iosUseCustomAppBackgroundBehavior: 0
+<<<<<<< HEAD
   allowedAutorotateToPortrait: 0
   allowedAutorotateToPortraitUpsideDown: 0
+=======
+  allowedAutorotateToPortrait: 1
+  allowedAutorotateToPortraitUpsideDown: 1
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   allowedAutorotateToLandscapeRight: 1
   allowedAutorotateToLandscapeLeft: 1
   useOSAutorotation: 1
@@ -114,7 +124,10 @@ PlayerSettings:
   xboxEnableGuest: 0
   xboxEnablePIXSampling: 0
   metalFramebufferOnly: 0
+<<<<<<< HEAD
   metalUseMetalDisplayLink: 0
+=======
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   xboxOneResolution: 0
   xboxOneSResolution: 0
   xboxOneXResolution: 3
@@ -144,7 +157,11 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
+<<<<<<< HEAD
   bundleVersion: 1.2
+=======
+  bundleVersion: 1.0
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   preloadedAssets:
   - {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   metroInputSource: 0
@@ -168,7 +185,10 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
+<<<<<<< HEAD
     Android: com.emergiogames.yatzy
+=======
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
     Standalone: com.DefaultCompany.2D-URP
   buildNumber:
     Standalone: 0
@@ -177,7 +197,11 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
+<<<<<<< HEAD
   AndroidMinSdkVersion: 31
+=======
+  AndroidMinSdkVersion: 25
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   AndroidPreferredDataLocation: 1
@@ -188,7 +212,11 @@ PlayerSettings:
   ForceInternetPermission: 0
   ForceSDCardPermission: 0
   CreateWallpaper: 0
+<<<<<<< HEAD
   androidSplitApplicationBinary: 1
+=======
+  androidSplitApplicationBinary: 0
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   keepLoadedShadersAlive: 0
   StripUnusedMeshComponents: 0
   strictShaderVariantMatching: 0
@@ -268,12 +296,21 @@ PlayerSettings:
   useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
+<<<<<<< HEAD
   AndroidTargetArchitectures: 3
   AndroidAllowedArchitectures: -1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: '{inproject}: user.keystore'
   AndroidKeyaliasName: 123456789
+=======
+  AndroidTargetArchitectures: 2
+  AndroidAllowedArchitectures: -1
+  AndroidSplashScreenScale: 0
+  androidSplashScreen: {fileID: 0}
+  AndroidKeystoreName: 
+  AndroidKeyaliasName: 
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0
   AndroidBuildApkPerCpuArchitecture: 0
@@ -285,13 +322,21 @@ PlayerSettings:
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
+<<<<<<< HEAD
   androidUseCustomKeystore: 1
+=======
+  androidUseCustomKeystore: 0
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   m_AndroidBanners:
   - width: 320
     height: 180
     banner: {fileID: 0}
   androidGamepadSupportLevel: 0
+<<<<<<< HEAD
   AndroidMinifyRelease: 1
+=======
+  AndroidMinifyRelease: 0
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
@@ -301,7 +346,11 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
+<<<<<<< HEAD
       m_Icon: {fileID: 2800000, guid: b39a5541637949943a1094665470fc94, type: 3}
+=======
+      m_Icon: {fileID: 2800000, guid: 7850b38a84dcede4c9da272516c5784e, type: 3}
+>>>>>>> e847be5a2f39148add67873de5a4925fa01793e3
       m_Width: 128
       m_Height: 128
       m_Kind: 0
